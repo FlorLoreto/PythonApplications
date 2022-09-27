@@ -1,2 +1,2 @@
 # PythonApplications
-Python von VisualStudio
+Python con VisualStudio
